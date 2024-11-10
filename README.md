@@ -3,8 +3,8 @@
 This project contains a simple billing software developed in Excel using VBA for Sreekrishna Dairy Farm to generate monthly invoice for customers.
 
 ## Features
-- Generates invoices.
 - Tracks total quantity of items sold and amount to be paid.
+- Generates invoices.
 - Stores customer and transaction data.
 
 ## Requirements
